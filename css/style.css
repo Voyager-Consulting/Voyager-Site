@@ -388,7 +388,13 @@ textarea:focus {
 
 /*Nagivation*/
 #main-nav {
-	padding: 15px 0;
+	position:fixed;
+	padding: 15px;
+	width:100%;
+}
+
+#home {
+	margin-bottom: 100px;
 }
 
 /*Affix*/
@@ -408,8 +414,6 @@ textarea:focus {
 .navbar {
 	margin:0;
 }
-
-
 
 #main-nav .navbar-header a {
 	background-color: transparent;
@@ -438,8 +442,6 @@ textarea:focus {
 	padding-bottom: 0;
 	text-transform: uppercase;
 }
-
-
 
 #main-nav .navbar-right li > a:focus {
 	color: #177B57;
