@@ -174,7 +174,7 @@ textarea:focus {
 }
 
 .bg-image {
-    background-position: center center;
+	background-position: center 40%;
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
@@ -316,7 +316,6 @@ textarea:focus {
 /*Header*/
 /*Top nav left*/
 .top-nav {
-	;
 	color: #333;
 	line-height: 40px;
 	border-bottom: 1px solid #177B57;
@@ -551,7 +550,7 @@ textarea:focus {
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
-    padding: 100px 0;
+    padding: 300px 0;
     color: #fff;
 }
 
