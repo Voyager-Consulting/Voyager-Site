@@ -550,6 +550,7 @@ textarea:focus {
     height: 450px;
     padding: 300px 0;
     color: #fff;
+		margin-top: 125px;
 }
 
 .index-header {
