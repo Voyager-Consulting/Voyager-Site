@@ -919,6 +919,7 @@ textarea:focus {
 	text-align: center;
 	line-height: 40px;
 	z-index: -2;
+	font-size: 60px;
 }
 
 .about-bg-heading h1 {
