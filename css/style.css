@@ -908,7 +908,7 @@ textarea:focus {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    text-transform: uppercase;
+    text-transform: none;
     padding: 100px 0;
     color: #fff;
 }
