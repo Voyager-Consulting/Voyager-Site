@@ -2395,6 +2395,10 @@ table.table-bordered > tbody > tr > td{
 	height: 180px;
 	object-fit: contain;
 }
+.contact-heading-box {
+	height: 150px;
+	object-fit: contain;
+}
 
 .middle {
   transition: .5s ease;
